@@ -1,8 +1,6 @@
   # Hello World!
 
-  > *It all started many years ago with an old PC and floppy disks...*
-
-  - Studied Mechatronics Engineering at the [Instituto Tecnológico de Tehuacán](http://www.ittehuacan.edu.mx/).
+   - Studied Mechatronics Engineering at the [Instituto Tecnológico de Tehuacán](http://www.ittehuacan.edu.mx/).
   - I've been dedicated to teaching at the secondary, high school, and university levels in areas related to physics, electronics, and programming.
   - Currently training as a Front-End developer at [Alura Latam](https://www.aluracursos.com/), supported by [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/).
   - Looking to build a career from scratch in the IT field.
@@ -14,8 +12,8 @@
       <a href="https://juliopzsosa.github.io/Ciphage/"><img height="180" width="180" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/main/cms_files_10224_1671210503Prancheta_3.png" title="Project 1. Text Encrypter" alt="P1. Text Encrypter"></a><br>
       <figcaption>P1. Text Encrypter</figcaption>
     </figure>
-  <br>
   </div>
+  <br>
 
    ## Interests
   - Command Line Interface (CLI)
