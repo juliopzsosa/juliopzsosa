@@ -4,16 +4,6 @@
   - I've been dedicated to teaching at the secondary, high school, and university levels in areas related to physics, electronics, and programming.
   - Currently training as a Front-End developer at [Alura Latam](https://www.aluracursos.com/), supported by [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/).
   - Looking to build a career from scratch in the IT field.
-  <br>
-
-  <h2 align="center">Oracle Next Education's Achievements</h2>
-  <div align="center">
-    <figure>
-      <a href="https://juliopzsosa.github.io/Ciphage/"><img height="180" width="180" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/main/cms_files_10224_1671210503Prancheta_3.png" title="Project 1. Text Encrypter" alt="P1. Text Encrypter"></a><br>
-      <figcaption>P1. Text Encrypter</figcaption>
-    </figure>
-  </div>
-  <br>
 
    ## Interests
   - Command Line Interface (CLI)
@@ -64,3 +54,14 @@
    ## Stats
   <a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api?username=juliopzsosa&show_icons=true&theme=github_dark" /></a>
   <a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliopzsosa&theme=github_dark&layout=compact&langs_count=8&card_width=320" /></a>
+
+  <br>
+  
+  <h2 align="center">Oracle Next Education's Achievements</h2>
+  <div align="center">
+    <figure>
+      <a href="https://juliopzsosa.github.io/Ciphage/"><img height="180" width="180" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/main/cms_files_10224_1671210503Prancheta_3.png" title="Project 1. Text Encrypter" alt="P1. Text Encrypter"></a><br>
+      <figcaption>P1. Text Encrypter</figcaption>
+    </figure>
+  </div>
+  <br>
