@@ -53,7 +53,7 @@
   
    ## Stats
   [<a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api?username=juliopzsosa&show_icons=true&theme=github_dark" /></a>]: #
-  <a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliopzsosa&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=480" /></a>
+  <a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliopzsosa&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" /></a>
 
   <br>
   
