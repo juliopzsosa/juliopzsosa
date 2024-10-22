@@ -1,4 +1,12 @@
-  # Hello World!
+  <div align="center">
+    <a href="https://www.credly.com/badges/863af360-311f-4c4e-a793-9ebe8c99e069/public_url"><img height="96" width="auto" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/efxf4ue29m0lffqj.png"></a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8AE1DD0EE0FB814387B1A97E5C1F8B8BEDE75A3A15616B0C4C23A8D67B1489C5"><img height="96" width="auto" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/4l5b78ar0zjte1a7.png"></a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1BB82D532A4148E4688565A548A7657B625A7AF3C1064C9D8859BADD403D8FE8"><img height="96" width="auto" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/5vy0n0qmsxclexu5.png"></a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A43495BDD6E8A914BA5DE2F2C88376246A3162F7F42A30A3B05DD98CAFFB0EB7"><img height="96" width="auto" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/qchg7suouwfzdx6d.png"></a>
+    <a href="https://www.credly.com/badges/ab4cbf1c-ac8a-4579-a01a-e00b4736f338/public_url"><img height="96" width="auto" src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/0vzmowj69sffy1cp.png"></a>
+  </div>
+  
+  <h1 align="center">Hello world!</h1>
 
    - Studied Mechatronics Engineering at the [Instituto Tecnológico de Tehuacán](http://www.ittehuacan.edu.mx/).
   - I've been dedicated to teaching at the secondary, high school, and university levels in areas related to physics, electronics, and programming.
@@ -9,51 +17,24 @@
   - Command Line Interface (CLI)
   - User Experience & User Interface (UX/UI)
 
-  ## Skills
-  ### Languages
-  <div>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/html5" title="HTML5" alt="HTML5"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/css3" title="CSS3" alt="CSS3"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" title="JavaScript" alt="JavaScript"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/git" title="Git" alt="Git"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/markdown/e6edf3" title="Markdown" alt="Markdown"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" title="GNU Bash" alt="GNU Bash"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/powershell" title="PowerShell" alt="PowerShell"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/arduino" title="Arduino" alt="Arduino"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/python" title="Python" alt="Python"></a>
-  </div>
-
-  ### Tools
-  <div>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" title="Sublime Text" alt="Sublime Text"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" title="npm" alt="npm"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/mariadb/008cb7" title="MariaDB" alt="MariaDB"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/coda" title="Coda" alt="Coda"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/notion/e6edf3" title="Notion" alt="Notion"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/trello" title="Trello" alt="Trello"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/figma" title="Figma" alt="Figma"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" title="Discord" alt="Discord"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/canva" title="Canva" alt="Canva"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/qemu" title="QEMU" alt="QEMU"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox/2a67ad" title="VirtualBox" alt="VirtualBox"></a>
-  </div>
-
-  ### Operative Systems & Distros
-  <div>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/windows" title="Windows" alt="Windows"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/macos/e6edf3" title="macOS" alt="macOS"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" title="Ubuntu" alt="Ubuntu"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/debian" title="Debian" alt="Debian"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/elementary" title="elementary OS" alt="elementary OS"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/popos" title="Pop!_OS" alt="Pop!_OS"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/zorin" title="Zorin OS" alt="Zorin OS"></a>
-    <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/android" title="Android" alt="Android"></a>
+  <div align="center">
+    <h2>Technologies</h2>
+    <div>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/html5" title="HTML5" alt="HTML5"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/css3" title="CSS3" alt="CSS3"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" title="JavaScript" alt="JavaScript"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/python" title="Python" alt="Python"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/git" title="Git" alt="Git"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/arduino" title="Arduino" alt="Arduino"></a>
+      <a href="#"><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" title="GNU Bash" alt="GNU Bash"></a>
+    </div>
   </div>
   
-   ## Stats
-  [<a href="#"><img height=192 align="center" src="https://github-readme-stats.vercel.app/api?username=juliopzsosa&show_icons=true&theme=github_dark" /></a>]: #
-  <a href="#"><img height=128 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliopzsosa&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=240" /></a>
+   <div align="center">
+    <h2>Stats</h2>
+      <!-- <a href="#"><img height="192" align="center" src="https://github-readme-stats.vercel.app/api?username=juliopzsosa&show_icons=true&theme=github_dark" /></a> -->
+      <a href="#"><img height="128" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliopzsosa&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_heigth=240" /></a>
+  </div>
 
   <br>
   
