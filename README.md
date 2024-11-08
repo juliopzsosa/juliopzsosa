@@ -8,14 +8,7 @@
   
   <h1 align="center">Hello world!</h1>
 
-   - Studied Mechatronics Engineering at the [Instituto Tecnológico de Tehuacán](http://www.ittehuacan.edu.mx/).
-  - I've been dedicated to teaching at the secondary, high school, and university levels in areas related to physics, electronics, and programming.
-  - Currently training as a Front-End developer at [Alura Latam](https://www.aluracursos.com/), supported by [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/).
-  - Looking to build a career from scratch in the IT field.
-
-   ## Interests
-  - Command Line Interface (CLI)
-  - User Experience & User Interface (UX/UI)
+  <p align="center">Front-End developer with expertise in HTML, CSS, JavaScript, and frameworks like React and Bootstrap, along with experience in data science using Python and database management. Background in teaching physics, electronics, and programming. Currently focused on building a career in technology.</p>
 
   <div align="center">
     <h2>Technologies</h2>
