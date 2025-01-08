@@ -32,8 +32,6 @@
   <li>Motivated to establish a career from the ground up in the IT field.</li>
 </ul>
 
-<br>
-
 <h2>Certifications</h2>
 <div>
   <a href="https://www.credly.com/badges/863af360-311f-4c4e-a793-9ebe8c99e069/public_url">
@@ -57,8 +55,6 @@
           src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/refs/heads/main/0vzmowj69sffy1cp.webp">
   </a>&nbsp;
 </div>
-
-<br>
 
 <h2>Front-End Skills</h2>
 <div>
@@ -91,8 +87,6 @@
   <img  alt="Ant Design" 
         src="https://img.shields.io/badge/Ant_Design-0170fe?style=flat-square">
 </div>
-
-<br>
 
 <h2>Another skills & tools</h2>
 <div>
@@ -150,8 +144,6 @@
         src="https://img.shields.io/badge/GNU_Octave-0790c0?style=flat-square">
 </div>
 
-<br>
-
 <h2>Achievements</h2>
 <div>
   <a href="https://juliopzsosa.github.io/Ciphage">
@@ -163,4 +155,3 @@
           src="https://raw.githubusercontent.com/juliopzsosa/juliopzsosa/main/g6sJTKpucXax2DHM.webp">
   </a>&nbsp;
 </div>
-
