@@ -3,14 +3,13 @@
 <div>
   <a href="https://docs.google.com/document/d/13_0rCCF_zpFiVz-Q0mzfOxCoyr8f1FTkDuvgj5cVvAM/export?format=pdf"><img  alt="Download Resume" src="https://img.shields.io/badge/Get_Resume-777777?style=flat-square"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=juliopzsosa&style=flat-square&color=blueviolet">
-  <a href="https://www.linkedin.com/in/juliopzsosa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square"></a>
   <a href="https://app.aluracursos.com/emprega-one/profile/juliopzsosa"><img alt="Oracle Next Education" src="https://img.shields.io/badge/Oracle_Next_Education-7c989f?style=flat-square"></a>
   <a href="https://learn.microsoft.com/users/juliopzsosa"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft_Learn-005ca5?style=flat-square"></a>
   <a href="https://www.credly.com/users/julio-paz-sosa"><img alt="Credly" src="https://img.shields.io/badge/Credly-ff6a00?style=flat-square"></a>
 </div>
 
 <ul>
-  <li>Bachelor's degree in Mechatronics Engineering from the Instituto Tecnológico de Tehuacán.</li>
+  <li>Bachelor's degree in Mechatronics Engineering from the Instituto Tecnologico de Tehuacan.</li>
   <li>Experienced in teaching at secondary, high school, and university levels, specializing in physics, electronics, and programming.</li>
   <li>Certified as a Junior Front-End Developer through Alura Latam, with support from Oracle Next Education.</li>
   <li>Motivated to establish a career from the ground up in the IT field.</li>
