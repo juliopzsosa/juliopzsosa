@@ -7,7 +7,7 @@
   <a href="https://learn.microsoft.com/users/juliopzsosa"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft_Learn-005ca5?style=flat-square"></a>
   <a href="https://www.credly.com/users/julio-paz-sosa"><img alt="Credly" src="https://img.shields.io/badge/Credly-ff6a00?style=flat-square"></a>
 </div>
-
+<br>
 <ul>
   <li>Bachelor's degree in Mechatronics Engineering from the Instituto Tecnologico de Tehuacan.</li>
   <li>Experienced in teaching at secondary, high school, and university levels, specializing in physics, electronics, and programming.</li>
